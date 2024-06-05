@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Taze84
+- 👀 I’m interested in cars and code
+- 🌱 I’m currently learning c++ and python
